@@ -6,7 +6,7 @@ The project is a decription of me. It has my name, my photo. Also it features se
 ## Setup/Installation Requirements
 * Github
 * Web browser of your choice.
-* Live link to view the project <a href="">View Portfolio</a>
+* Live link to view the project <a href="https://jobkarani.github.io/portfolio/">View Portfolio</a>
 ## Known Bugs
 *no bugs known at the moment. 
 ## Technologies Used
